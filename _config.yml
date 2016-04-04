@@ -30,6 +30,7 @@ github:
 pages_list:       
   About: '/about/'
   Archive: '/archive/'
+  Quotes: '/quotes/'
   Feed: '/atom.xml'
 
 # Gems
