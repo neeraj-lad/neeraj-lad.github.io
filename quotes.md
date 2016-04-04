@@ -7,7 +7,7 @@ title: Quotes
 <i>Start where you are. Use what you have. Do what you can - <b>Arthur Ashe</b></i>
 </p>
 
-Here I will list down quotes which I intend to remember:
+Here I will list down the quotes which I intend to remember:
 
 1. Start by doing what's necessary; then do what's possible; and suddenly you are doing the impossible - Francis of Assisi
 
