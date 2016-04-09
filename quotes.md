@@ -4,7 +4,7 @@ title: Quotes
 ---
 
 <p class="message">
-_Start where you are. Use what you have. Do what you can - **Arthur Ashe** _
+*Start where you are. Use what you have. Do what you can -*  ***Arthur Ashe***
 </p>
 
 Here I will list down the quotes which I intend to remember:
