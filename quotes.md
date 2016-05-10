@@ -18,3 +18,9 @@ title: Quotes
 4. Don't watch the clock; do what it does. Keep going - Sam Levenson
 
 5. Always do whatever's next - George Carlin
+
+6. Simplicity is alway better than functionality - Pieter Hintjens
+
+7. Fit the 90% use-case. Ignore the nay sayers - Kenneth Reitz
+
+8. Now is better than never; Although never is often better than *right* now - PEP 20 (The Zen of Python)
